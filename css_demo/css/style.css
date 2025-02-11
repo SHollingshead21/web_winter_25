@@ -1,0 +1,37 @@
+body {
+    background-color: chartreuse;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 50px;
+    background-color: darkorange;
+}
+
+.nav {
+    list-style:none;
+    text-align:center;
+}
+
+.nav li {
+    display:inline;
+    margin-right: 20px;
+}
+
+.copy {
+    font-size:25px;
+    color: saddlebrown;
+    background-color:bisque;
+}
+
+.span1 {
+    color:red;
+    font-size: xx-large;
+}
+
+.span2 {
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    color:blueviolet;
+}
