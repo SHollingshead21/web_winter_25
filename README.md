@@ -4,4 +4,5 @@
   <li><a href="midterm">Midterm</a></li>
   <li><a href="js_demo">JS Demo</a></li>
   <li><a href="final">Final</a></li>
+  <li><a href="shrey_midterm">Shrey's Midterm</a></li>
 </ul>
